@@ -9,8 +9,33 @@ Shambhavi (RA1911003011038)
 https://compicenter.vercel.app/
 
 # compicenter
-Getting Started with Create React App
-This project was bootstrapped with Create React App.
+Problem Statement
+Competitive coding is a major part of today's computer science engineering world. All the company recruitments and skillset judging are based on how people code and to be perfect we need to be practicing our skills by giving various coding exams and competitions and need to be regular at various coding platforms. The main problem that arises is not being aware of the various coding events being held currently or getting late to register for the upcoming ones and not able to do proper practice for Interview purpose.
+
+
+Solution
+What our platform includes:
+●	Codeforces Detailed Profile Review
+●	Codechef Detailed Profile Review
+●	Company wise Question Archive
+●	Practice Programs (from Codeforces, Codechef, etc)
+●	Upcoming Contest List from Different Plaftorms (like codechef, codeforces, leetcode, hackerearth, atcoder)
+●	Compiler to run codes (supported languages : C, C++, Java, Python )
+●	Chrome Extension for Upcoming Contest Updates
+●	 Decode
+●	Login / Signup Page
+
+Tech Stack :
+ReactJS
+NodeJS
+HTML
+CSS
+Javascript
+Bootstrap
+React-dom
+React-Router
+Firebase
+
 
 # Available Scripts
 In the project directory, you can run:
