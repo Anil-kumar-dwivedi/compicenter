@@ -1,8 +1,11 @@
 #Team Member
 
 Anil kumar Dwivedi (RA1911033010049)
+
 PUSHP PARITOSH (RA1911003010058) 
+
 Ansh Kakkar (RA1911003010027)
+
 Shambhavi (RA1911003011038)
 
 # Website URL :-
@@ -10,11 +13,13 @@ https://compicenter.vercel.app/
 
 # compicenter
 ##Problem Statement
+
 Competitive coding is a major part of today's computer science engineering world. All the company recruitments and skillset judging are based on how people code and to be perfect we need to be practicing our skills by giving various coding exams and competitions and need to be regular at various coding platforms. 
 The main problem that arises is not being aware of the various coding events being held currently or getting late to register for the upcoming ones and not able to do proper practice for Interview purpose.
 
 
 ##Solution
+
 What our platform includes:
 
 ●	Codeforces Detailed Profile Review
@@ -36,6 +41,7 @@ What our platform includes:
 ●	Login / Signup Page
 
 Tech Stack :
+
 ReactJS
 NodeJS
 HTML
