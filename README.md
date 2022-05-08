@@ -43,13 +43,21 @@ What our platform includes:
 Tech Stack :
 
 ReactJS
+
 NodeJS
+
 HTML
+
 CSS
+
 Javascript
+
 Bootstrap
+
 React-dom
+
 React-Router
+
 Firebase
 
 
